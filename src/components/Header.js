@@ -18,7 +18,7 @@ export default function Header() {
             <Image src={Logo} alt="Logo de Maxence Vallée" />
           </a>
           <nav>
-            <div className={click ? `${styles.overlay_menu}` : ""}></div>
+            <div className={click ? `${styles.bg_menu}` : ""}></div>
             <ul className={click ? `${styles.active}` : ""}>
               <button onClick={handleClick}>
                 <Image src={CloseMenu} alt="Fermer le menu" />

@@ -1,6 +1,5 @@
 import styles from "@/styles/Services.module.css";
 import Image from "next/image";
-import DownloadIcon from "@/../public/images/download-icon.svg";
 import Cursor from "@/../public/images/cursor-fill.svg";
 import Brush from "@/../public/images/paint_brush-fill.svg";
 import Object from "@/../public/images/object_3d-fill.svg";
@@ -14,24 +13,10 @@ export default function Services() {
             <div className={styles.text}>
               <h2>Ce que je fais</h2>
               <p>
-                Veritatis, eos earum accusamus sint, illo eum laborum explicabo
-                quod minus rem? Ad praesentium excepturi earum atque reiciendis
-                explicabo.
+                Découvrez mes compétences techniques liées à l'informatique afin
+                de concevoir et de mettre en oeuvre des solutions innovantes.
               </p>
             </div>
-            <a
-              className={styles.primary_btn}
-              href="http://192.168.144.10:3000/documentx.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Télécharger mon CV
-              <Image
-                className={styles.icon}
-                src={DownloadIcon}
-                alt="Téléchargement"
-              />
-            </a>
           </div>
           <div className={styles.right_section}>
             <div className={styles.container}>
@@ -52,14 +37,14 @@ export default function Services() {
                 </div>
                 <h3>Web Design</h3>
                 <p>
-                  Veniam sint eius adipisci officia cumque quas voluptatem
-                  voluptate rerum minima cupiditate ut perferendis provident
-                  debitis, quis ullam ea illo eos accusantium quaerat.
+                  Mon approche créative alliée à ma maîtrise des outils de
+                  design tels que Figma et Photoshop, me permettent de créer des
+                  interfaces uniques avec une approche axée sur l'utilisateur.
                 </p>
               </div>
               <div className={styles.item}>
                 <div className={styles.bg_icon}>
-                  <Image src={Object} alt="Icône modélisation 3D" />
+                  <Image src={Object} alt="Icône modélisation" />
                 </div>
                 <h3>Modélisation 3D</h3>
                 <p>

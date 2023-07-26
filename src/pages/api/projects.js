@@ -3,17 +3,16 @@
 export const projects = [
   {
     title: "Hôtel Rivage",
-    description:
-      "Conception et développement web d’un site vitrine pour un hôtel.",
+    description: "Réalisation sur mesure d'un site internet pour un hôtel",
     image: "/images/hotel-rivage.jpg",
     tags: ["HTML", "CSS", "JavaScript"],
-    visit: "https://twitch.tv",
+    visit: "",
     id: "0",
   },
   {
     title: "Working Space",
     description:
-      "Conception et développement web d’un site vitrine pour un espace de coworking.",
+      "Création d’une maquette design sur Figma pour un espace de coworking.",
     image: "/images/working-space.jpg",
     tags: ["React", "CSS"],
     visit: "",
@@ -22,8 +21,8 @@ export const projects = [
   {
     title: "LVR Prestige",
     description:
-      "Réalisation sur mesure du site internet pour une société de location de véhicules de luxe.",
-    image: "",
+      "Conception d'un site vitrine pour une société de location de véhicules de luxe.",
+    image: "/images/lvr-prestige.jpg",
     tags: ["React", "CSS"],
     visit: "",
     id: "2",

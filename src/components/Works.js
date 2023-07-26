@@ -29,7 +29,11 @@ export default function Works() {
                 rel="noopener noreferrer"
               >
                 Voir le projet
-                <Image className={styles.icon} src={ArrowIcon} />
+                <Image
+                  className={styles.icon}
+                  src={ArrowIcon}
+                  alt="Ouvrir le lien"
+                />
               </a> */}
             </div>
           ))}

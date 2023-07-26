@@ -77,7 +77,7 @@
     transition: transform 0.2s;
   }
 
-  .header .overlay_menu {
+  .header .bg_menu {
     display: block;
     position: fixed;
     top: 0;

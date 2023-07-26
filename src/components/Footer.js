@@ -13,7 +13,7 @@ export default function Footer() {
               className={styles.secondary_btn}
               href="mailto:maxence.vallee@outlook.fr"
             >
-              Contactez-moi
+              Prendre contact
               <Image
                 className={styles.icon}
                 src={ArrowIcon}
