@@ -24,7 +24,7 @@ export default function About() {
           </div>
           <a
             className={styles.primary_btn}
-            href="http://www.maxencevallee.com/Curriculum-Vitæ.pdf"
+            href="https://www.maxencevallee.com/Curriculum-Vitæ.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
