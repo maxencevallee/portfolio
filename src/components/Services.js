@@ -48,9 +48,9 @@ export default function Services() {
                 </div>
                 <h3>Modélisation 3D</h3>
                 <p>
-                  Veniam quasi incidunt illum in deleniti? Laudantium, soluta,
-                  non officia iusto illo repellendus totam. Impedit rem delectus
-                  eligendi odit, sint libero voluptates recusandae in iure.
+                  Je maîtrise les logiciels de modélisation tels que Blender et
+                  Fusion 360 pour créer des pièces complexes, prototypes et
+                  objets artistiques.
                 </p>
               </div>
             </div>

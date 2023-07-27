@@ -10,9 +10,7 @@ export default function Hero() {
         <section className={styles.hero}>
           <div className={styles.left_section}>
             <div className={styles.text}>
-              <h1>
-                Développeur <br /> Front-End React
-              </h1>
+              <h1>Développeur Front-End React</h1>
               <p>
                 Bienvenue sur mon portfolio, je m'appelle Maxence Vallée. Je
                 suis développeur front-end, passionné par le monde du code.

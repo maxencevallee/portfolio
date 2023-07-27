@@ -14,12 +14,11 @@ export default function About() {
         </div>
         <div className={styles.right_section}>
           <div className={styles.text}>
-            <h2>Qui suis-je ?</h2>
+            <h2>À propos de moi</h2>
             <p>
               Passionné par le monde de l'informatique depuis mon plus jeune
-              âge. J'ai commencé comme tout le monde par les jeux vidéos, mais,
-              à l'adolescence, j'étais déjà créatif et intéressé par tous le
-              domaine du multimédia.
+              âge. J'ai commencé les jeux vidéos, mais, à l'adolescence, j'étais
+              déjà créatif et intéressé par tous le domaine du multimédia.
             </p>
           </div>
           <a

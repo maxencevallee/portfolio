@@ -8,12 +8,12 @@ export default function Footer() {
       <div className={styles.bg_footer}>
         <footer id="contact" className={styles.footer}>
           <div className={styles.text}>
-            <h2>Vous avez un projet en tête ?</h2>
+            <h2>Travaillons ensemble !</h2>
             <a
               className={styles.secondary_btn}
               href="mailto:maxence.vallee@outlook.fr"
             >
-              Prendre contact
+              Me contacter
               <Image
                 className={styles.icon}
                 src={ArrowIcon}
