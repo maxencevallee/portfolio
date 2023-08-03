@@ -49,7 +49,7 @@ export default function Services() {
                 <h3>Modélisation 3D</h3>
                 <p>
                   Je maîtrise les logiciels de modélisation tels que Blender et
-                  Fusion 360 pour créer des pièces complexes, prototypes et
+                  Fusion 360, afin de créer des pièces complexes, prototypes et
                   objets artistiques.
                 </p>
               </div>

@@ -18,7 +18,12 @@ export default function About() {
             <p>
               Passionné par le monde de l'informatique depuis mon plus jeune
               âge. J'ai commencé les jeux vidéos, mais, à l'adolescence, j'étais
-              déjà créatif et intéressé par tous le domaine du multimédia.
+              déjà créatif et intéressé par le monde du code.
+            </p>
+            <p>
+              J'aime travailler en équipe et échanger des idées, également, mon
+              approche proactive et ma capacité à résoudre les problèmes me
+              permettent de contribuer à la réussite des projets.
             </p>
           </div>
           <a
