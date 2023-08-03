@@ -17,7 +17,7 @@ export default function About() {
             <h2>À propos de moi</h2>
             <p>
               Passionné par le monde de l'informatique depuis mon plus jeune
-              âge. J'ai commencé les jeux vidéos, mais, à l'adolescence, j'étais
+              âge. J'ai commencé les jeux vidéo, mais, à l'adolescence, j'étais
               déjà créatif et intéressé par le monde du code.
             </p>
             <p>
