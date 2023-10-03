@@ -20,15 +20,15 @@ export default function About() {
               âge. J'ai commencé les jeux vidéo, mais, à l'adolescence, j'étais
               déjà créatif et intéressé par le monde du code.
             </p>
-            <p>
+            {/* <p>
               J'aime travailler en équipe et échanger des idées, également, mon
               approche proactive et ma capacité à résoudre les problèmes me
               permettent de contribuer à la réussite des projets.
-            </p>
+            </p> */}
           </div>
           <a
             className={styles.primary_btn}
-            href="https://www.maxencevallee.com/Curriculum-Vitæ.pdf"
+            href="http://maxencevallee.fr/Curriculum-Vitæ.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >

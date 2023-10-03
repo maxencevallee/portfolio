@@ -37,7 +37,7 @@ export default function Hero() {
             <Image
               className={styles.img}
               src={Bitmoji}
-              alt="Bitmoji de Maxence Vallée"
+              alt="Memoji de Maxence Vallée"
             />
           </div>
         </section>
