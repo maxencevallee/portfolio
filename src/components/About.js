@@ -26,7 +26,7 @@ export default function About() {
               permettent de contribuer à la réussite des projets.
             </p> */}
           </div>
-          <a
+          {/* <a
             className={styles.primary_btn}
             href="http://maxencevallee.fr/Curriculum-Vitæ.pdf"
             target="_blank"
@@ -38,7 +38,7 @@ export default function About() {
               src={DownloadIcon}
               alt="Téléchargement"
             />
-          </a>
+          </a> */}
         </div>
       </section>
     </>
