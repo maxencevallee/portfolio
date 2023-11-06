@@ -24,11 +24,6 @@ export default function Header() {
                 <Image src={CloseMenu} alt="Fermer le menu" />
               </button>
               <li>
-                <a onClick={handleClick} href="#à-propos">
-                  À propos
-                </a>
-              </li>
-              <li>
                 <a onClick={handleClick} href="#services">
                   Services
                 </a>

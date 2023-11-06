@@ -2,7 +2,6 @@ import Head from "next/head";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
-import About from "@/components/About";
 import Services from "@/components/Services";
 import Works from "@/components/Works";
 
@@ -17,7 +16,6 @@ export default function Home() {
       </Head>
       <Header />
       <Hero />
-      <About />
       <Services />
       <Works />
       <Footer />

@@ -24,7 +24,7 @@ export default function Hero() {
                 className={styles.secondary_btn}
                 href="mailto:maxence.vallee@outlook.fr"
               >
-                Prendre contact
+                Me contacter
                 <Image
                   className={styles.icon}
                   src={ArrowIcon}

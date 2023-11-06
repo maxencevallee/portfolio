@@ -39,9 +39,10 @@
 }
 
 .footer ul {
+  list-style: none;
   display: flex;
   justify-content: space-between;
-  max-width: 280px;
+  max-width: 200px;
   margin: auto;
 }
 

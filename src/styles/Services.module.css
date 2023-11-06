@@ -1,7 +1,3 @@
-.bg_services {
-  background-color: #fbfbfb;
-}
-
 .services {
   max-width: 1280px;
   padding: 7rem 2rem;
@@ -17,10 +13,6 @@
   position: sticky;
   top: 5rem;
   margin-right: 4rem;
-}
-
-.text {
-  margin-bottom: 2.625rem;
 }
 
 .primary_btn {
@@ -48,11 +40,11 @@
 }
 
 .item {
-  max-width: 628px;
+  max-width: 560px;
   padding: 2rem;
   background-color: #ffff;
   border-radius: 1rem;
-  box-shadow: rgba(100, 100, 111, 0.05) 0px 7px 29px 0px;
+  box-shadow: rgba(4, 9, 30, 0.05) 0 20px 35px 10px;
 }
 
 .bg_icon {
@@ -72,8 +64,11 @@
   }
   .left_section {
     position: initial;
-    max-width: 624px;
+    max-width: 560px;
     margin: auto;
+  }
+  .text {
+    margin-bottom: 2.625rem;
   }
   .primary_btn {
     display: none;

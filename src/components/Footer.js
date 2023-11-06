@@ -8,7 +8,9 @@ export default function Footer() {
       <div className={styles.bg_footer}>
         <footer id="contact" className={styles.footer}>
           <div className={styles.text}>
-            <h2>Travaillons ensemble !</h2>
+            <h2>
+              Vous avez un projet en tête ? <br /> Travaillons ensemble. 👋📫
+            </h2>
             <a
               className={styles.secondary_btn}
               href="mailto:maxence.vallee@outlook.fr"
@@ -25,9 +27,6 @@ export default function Footer() {
             <ul>
               <li>
                 <a href="#accueil">Accueil</a>
-              </li>
-              <li>
-                <a href="#à-propos">À propos</a>
               </li>
               <li>
                 <a href="#services">Services</a>
